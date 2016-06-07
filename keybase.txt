@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/damiansam
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://nomad.is
+  * I am damiansam (https://keybase.io/damiansam) on keybase.
+  * I have a public key with fingerprint 4CBA 1FA8 CB18 091F 319D  D79C 7EA8 8381 9E7B 8916
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101c8d42646a5532faea1437c8a37ad5561a99f67af95286cee84b3d7064461d68c0a",
+            "fingerprint": "4cba1fa8cb18091f319dd79c7ea883819e7b8916",
+            "host": "keybase.io",
+            "key_id": "7ea883819e7b8916",
+            "kid": "0101c8d42646a5532faea1437c8a37ad5561a99f67af95286cee84b3d7064461d68c0a",
+            "uid": "740864cf9512ebb9bcd9301f8e8b7019",
+            "username": "damiansam"
+        },
+        "service": {
+            "hostname": "nomad.is",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1465257839,
+    "expire_in": 157680000,
+    "prev": "aece0c60967c1e76f39959e656e7eaf12a74177963e741400ab1acea8401b0e5",
+    "seqno": 4,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.53
+Comment: https://keybase.io/crypto
+
+yMIkAnicrVJbSBRRGF7NzLbsIvjSQ5eBKGHROTszZ87Zp4Jcgu4PVg/KdubMmW3Q
+nVlnZrfELJOKwmK7GnR56+JDoiSyCZFb2kNFFFIYWdIdDCor6EJlnbF667Hzcs75
++b7v//6Pf6B4UiCYp5HtDc3zvuzJu3X1SCqwYf1Mu1HQbL1BiDQKtWziYnU6c71Y
+rakLEUEEIqBIl8NQhkRRpLBBGAGypFJEJJXoigIBwdiAKjGwEkaQMoZkTdJVEcoy
+BDpEVCRCSDBMK86cpGNaHpeVqUaAQRDVABIxMCSAdV3FVGUEIQkBzFQNYQA5cbPt
++gxuTiMuKzdtXuOf2IS9f+D/s+/U7z6yiKBMORSEmaZhjepYEoGBGNJUEWAf6DLH
+IgnG0TpJmMRySUJoCgm8nDYp85P1R/kDsewE0ctNlxOTju3Z1K7j1c2el4z4JK8h
+6aO2MC32hx/TTEvnGXJCmjmuaVtCBHAk9UxfEMhQCSsqknBIYFuTpsNipo9QVIhE
+fvw2LM0lCaNMpFDEUKWAqdCQMFYwgwpkPEwDhIkqA1XFUGL8IYsi0QChPGZZBJrI
+FMGfqN6yhYjMbZI4l3TNuEW8lMOEpmu56oJAXjBQODnf361AcOqsvxvX2l0UOBUd
+P7Tw1eK1w3Mrh1ue1PaPxF5mO7qb+6rijzJdzt3Pc+1zJfqu7A/jfdmD/MzKbV03
+5w1eG/36or2jsq1m9ssxt+RARVXB25r7ZSUHH51eurp+d9GxETAz1B7r+3j40vwb
+o0siz7MFa6u6jWWvi6f1lD9sOT+nY1fUXCWOe3vfwaHHzzLLB7KdU06+mXHx5OWh
+sZX7i5E69rE0/XVB9qg7Y/DUk00VT+/MX1NaFO9dmMsJbYvya352rjgTPR5JTXqf
+iLQ8+HZ8pPrejvrWjYO55mzH7n1tF872BYbrxmcX3l5edv06bLo3/dPeDxk3MbSu
+8A6h9nc866nV8+PEzt4r/cHoL2OyRAY=
+=HTzI
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/damiansam
+
+==================================================================
